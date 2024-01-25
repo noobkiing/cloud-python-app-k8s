@@ -1,4 +1,4 @@
-# cloud-python-app-k8s
+# Resource-Monitiring(cloud native)-app-k8s
 Certainly! Here's the content in Markdown format:
 
 # Part 1: Deploying the Flask application locally
