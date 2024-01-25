@@ -1,5 +1,5 @@
-# Resource-Monitiring(cloud native)-app-k8s
-Certainly! Here's the content in Markdown format:
+# Resource-Monitoring(cloud native)-app-k8s
+
 
 # Part 1: Deploying the Flask application locally
 
